@@ -1,0 +1,5 @@
+<!--vielleich 2 static arrays in java sichtbar für alle ger und az -->
+<resources>
+    <string name="ex_haben_haus_ger">Ich habe ein Haus</string>
+    <string name="ex_kaufen_auto_az"></string>
+</resources>

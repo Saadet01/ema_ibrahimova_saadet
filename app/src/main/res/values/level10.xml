@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level10_aze">
+        <item>gələn həftə</item>
+        <item>ata</item>
+        <item>supermarket</item>
+        <item>getmək</item>
+        <item>Gələn həftə atam ile supermarketə gedəcəm.</item>
+        <item>Saat 17:00</item>
+        <item>qatar</item>
+        <item>dəmiryolu stansiyası</item>
+        <item>çatmaq</item>
+        <item>Qatar saat 17:00də dəmiryolu stansiyası çatacaq</item>
+    </string-array>
+    <string-array name="level10_ger">
+        <item>nächste Woche</item>
+        <item>der Vater</item>
+        <item>der Supermarket</item>
+        <item>gehen</item>
+        <item>Ich gehe nächste Woche mit meinem Vater zum Supermarket.</item>
+        <item>17 Uhr</item>
+        <item>der Zug</item>
+        <item>der Bahnhof</item>
+        <item>erreichen</item>
+        <item>Der Zug wird um 17 Uhr den Bahnhof erreichen. </item>
+    </string-array>
+</resources>

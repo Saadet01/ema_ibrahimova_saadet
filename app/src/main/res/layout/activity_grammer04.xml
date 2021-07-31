@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Grammar04Activity"
+    android:background="@color/grammar_background_color">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/grammer_layout_margin"
+        android:layout_marginEnd="@dimen/grammer_layout_margin"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+        <TextView
+            android:id="@+id/rule_grammer04_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ismin hallari"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:background="@color/grammar_titelbackground_color"
+            android:layout_marginBottom="50dp"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textColor="@color/grammar_text_color"/>
+        <TextView
+            android:id="@+id/rule_grammer04_introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/grammar_text_color"
+            android:background="@color/white"
+            android:text="@string/rule_grammer04_nouncases_introduction"
+            android:textStyle="italic"/>
+
+        <ImageView
+            android:id="@+id/rule_grammer04_nouncases"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/nouncases"/>
+
+        <TextView
+            android:id="@+id/rule_grammer04_examplecases"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:background="@color/white"
+            android:textColor="@color/grammar_text_color"
+            android:layout_height="wrap_content"
+            android:text="Misallar:\ndes Baumes=o agaci \ndes Kaninchens=o dovsanin
+        \neinem Haus=hansisa bir agaca \nkeine Frau=hec bir qadin/qadini"/>
+
+        <TextView
+            android:id="@+id/rule_grammer04_examplecases02"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:textColor="@color/grammar_text_color"
+            android:text="DIQQET!\nYuxarida kein/keines/keinen..yoxluqu bildirir.
+        \nBu Sade cümleler bölmesinde aydinlasdirilacaq "/>
+    </LinearLayout>
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu"
+        android:background="@color/startbackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:labelVisibilityMode="selected"
+        app:itemIconSize="30dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

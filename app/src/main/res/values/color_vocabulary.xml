@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_german_array_nomen">
+        <item>rot</item>
+        <item>blau</item>
+        <item>grün</item>
+        <item>gelb</item>
+        <item>orange</item>
+        <item>schwarz</item>
+        <item>weiß</item>
+        <item>rosa</item>
+        <item>violett</item>
+        <item>grau</item>
+        <item>braun</item>
+        <item>türkis</item>
+        <item>dunkel x</item>
+        <item>hell x</item>
+    </string-array>
+    <string-array name="color_aze_array_nomen">
+        <item>Qırmızı</item>
+        <item>Göy</item>
+        <item>Yaşıl</item>
+        <item>Sarı</item>
+        <item>Narıncı</item>
+        <item>Qara</item>
+        <item>Ağ</item>
+        <item>Çəhrayı</item>
+        <item>Bənövşəyi</item>
+        <item>Boz</item>
+        <item>Qəhvəyi</item>
+        <item>Firuzə rəngi</item>
+        <item>tünd x</item>
+        <item>açıq x</item>
+    </string-array>
+</resources>

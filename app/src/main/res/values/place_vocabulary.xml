@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_german_array_nomen">
+        <item>Deutschland</item>
+        <item>Aserbaidschan</item>
+        <item>Türkei</item>
+        <item>Russland</item>
+        <item>die Schule</item>
+        <item>die Universität</item>
+        <item>die Hochschule</item>
+        <item>die Berufsschule</item>
+        <item>dasMuseum</item>
+        <item>die Bar/ Kneipe</item>
+        <item>der Club</item>
+        <item>der Zoo</item>
+        <item>Freizeitspark</item>
+        <item>der Markt</item>
+        <item>das Einkaufszentrum</item>
+        <item>der Supermarkt</item>
+        <item>das Geschäft</item>
+        <item>die Wohnung</item>
+        <item>das Haus</item>
+        <item>das Büro</item>
+        <item>das Schlafzimmer</item>
+        <item>das Wohnzimmer</item>
+        <item>die Küche</item>
+        <item>das Bad</item>
+        <item>die Toilette / das  WC</item>
+        <item>das Arbeitszimmer</item>
+        <item>das Rathaus</item>
+        <item>die Ausländerbehörde</item>
+        <item>das Cafe</item>
+        <item>das Restaurant</item>
+        <item>die Fahrschule</item>
+        <item>die Sprachschule</item>
+    </string-array>
+    <string-array name="place_aze_array_nomen">
+        <item>Almanya</item>
+        <item>Azərbaycan</item>
+        <item>Türkiyə</item>
+        <item>Rusiya</item>
+        <item>die məktəb</item>
+        <item>universitet</item>
+        <item>universitet</item>
+        <item>die peşə məktəbi</item>
+        <item>muzey</item>
+        <item>Bar</item>
+        <item>Klub</item>
+        <item>zoopark</item>
+        <item>Əyləncə parkı</item>
+        <item>bazar</item>
+        <item>ticarət mərkəzi</item>
+        <item>Supermarket</item>
+        <item>Dükan</item>
+        <item>Buna evi</item>
+        <item>Həyət evi</item>
+        <item>ofis</item>
+        <item>das yataq otagi</item>
+        <item>das oturma otağı</item>
+        <item>die mətbəx</item>
+        <item>das hamam</item>
+        <item>Tualet</item>
+        <item>İş otağı</item>
+        <item>İcra hekimiyyəti </item>
+        <item>Mirqasiya idarəsi</item>
+        <item>Kafe</item>
+        <item>Restoran</item>
+        <item>Sürücülük məktəbi</item>
+        <item>Dil öyrənmə məktəbi</item>
+    </string-array>
+</resources>

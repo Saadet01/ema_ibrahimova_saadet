@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="level05_aze">
+        <item>tibb bacısı</item>
+        <item>avtobus</item>
+        <item>iş/iş yeri</item>
+        <item>nəqliyyat vasitəsi ile getmek</item>
+        <item>Tibb bacisi avtobus ile işə gedir.</item>
+        <item>sən</item>
+        <item>bu</item>
+        <item>mecburiyyet/ malı məli səkilçisi</item>
+        <item>yemək</item>
+        <item>Sən bunu yeməlisən.</item>
+    </string-array>
+    <string-array name="level05_ger">
+        <item>die Krankenschwester</item>
+        <item>der Bus</item>
+        <item>die Arbeit</item>
+        <item>fahren</item>
+        <item>Die Krankenschwester fährt mit dem Bus zu der Arbeit.</item>
+        <item>du</item>
+        <item>der/die/das</item>
+        <item>müssen</item>
+        <item>essen</item>
+        <item>Du musst das essen.</item>
+
+    </string-array>
+
+</resources>

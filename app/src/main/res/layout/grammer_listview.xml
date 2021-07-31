@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GrammarTopicActivity"
+    android:orientation="vertical">
+     <TextView
+         android:id="@+id/grammer_topic"
+         android:layout_width="400dp"
+         android:layout_height="60dp"
+         android:text="Hərflər və oxunuşu"
+         android:textStyle="bold"
+         android:textSize="30sp"
+         android:textColor="@color/textbluegreen"
+         android:gravity="center"/>
+</LinearLayout>

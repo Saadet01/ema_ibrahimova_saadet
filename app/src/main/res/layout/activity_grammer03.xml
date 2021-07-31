@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Grammar03Activity"
+    android:background="@color/grammar_background_color">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/grammer_layout_margin"
+        android:layout_marginEnd="@dimen/grammer_layout_margin"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+        <TextView
+            android:id="@+id/rule_grammer03_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Artikıllar"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:textSize="35sp"
+            android:textColor="@color/grammar_text_color"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@color/grammar_titelbackground_color"/>
+        <TextView
+            android:id="@+id/rule_grammer03_introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule_grammer03_article_introduction"
+            android:textStyle="italic"
+            android:textColor="@color/grammar_text_color"
+            android:background="@color/white"/>
+
+        <ImageView
+            android:id="@+id/rule_grammer03_article"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/grammer_articles" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@color/white">
+            <TextView
+                android:id="@+id/rule_grammer03_examplearticle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:textSize="10sp"
+                android:textColor="@color/grammar_text_color"
+                android:text="Misallar:\n\nder Kommandeur=Kamandir \ndas Kaninchen=Dovsan
+        \nder Kapitalismus=Kapitalsm \ndas Kenntnis=Informasiya "/>
+            <TextView
+                android:id="@+id/rule_grammer03_examplearticle02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10sp"
+                android:textColor="@color/grammar_text_color"
+                android:layout_marginStart="50dp"
+                android:text="Qaydayasiz cütlükler:\n\nder Baum=agac
+        \ndie Wand=divar \nder Tisch=stol"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu"
+        android:background="@color/startbackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:labelVisibilityMode="selected"
+        app:itemIconSize="30dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

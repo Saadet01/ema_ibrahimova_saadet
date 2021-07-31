@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruit_german_array_nomen">
+        <item>die Frucht</item>
+        <item>die Wassermelone</item>
+        <item>die Honigmelone</item>
+        <item>der Apfel</item>
+        <item>die Banane</item>
+        <item>die Birne</item>
+        <item>die Orange</item>
+        <item>die Kiwi</item>
+        <item>die Mandarine</item>
+        <item>die Trauben</item>
+        <item>der Granatapfel</item>
+        <item>die Ananas</item>
+        <item>die Mango</item>
+        <item>die Erdbeere</item>
+        <item>die Himbeere</item>
+        <item>Kaki</item>
+        <item>die Kirsche</item>
+    </string-array>
+    <string-array name="fruit_aze_array_nomen">
+        <item>meyvə</item>
+        <item>Qarpız</item>
+        <item>Yemiş</item>
+        <item>Alma</item>
+        <item>Banan</item>
+        <item>Armud</item>
+        <item>Portağal</item>
+        <item>Kivi</item>
+        <item>Mandarin</item>
+        <item>Üzüm</item>
+        <item>Nar</item>
+        <item>Ananas</item>
+        <item>Mango</item>
+        <item>Çiyələk</item>
+        <item>Malina</item>
+        <item>Xurma</item>
+        <item>Gilas</item>
+    </string-array>
+</resources>

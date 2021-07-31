@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_german_array_nomen">
+        <item>das Fahrrad</item>
+        <item>das Auto</item>
+        <item>der Bus</item>
+        <item>der Zug</item>
+        <item>das Taxi</item>
+        <item>die Straßenbahn</item>
+        <item>die U-Bahn</item>
+        <item>das Motorrad</item>
+        <item>das Flugzeug</item>
+        <item>das Schiff</item>
+    </string-array>
+    <string-array name="transport_aze_array_nomen">
+        <item>velosiped</item>
+        <item>avtomobil</item>
+        <item>avtobus</item>
+        <item>qatar</item>
+        <item>taksi</item>
+        <item>tramvay</item>
+        <item>Metro</item>
+        <item>motosiklet</item>
+        <item>təyyarə</item>
+        <item>gəmi</item>
+    </string-array>
+</resources>

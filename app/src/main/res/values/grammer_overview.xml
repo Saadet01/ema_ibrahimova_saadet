@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grammer_overview_aze">
+        <item>Əlifba</item>
+        <item>Ədədlər</item>
+        <item>Artikıllar</item>
+        <item>İsmin halları</item>
+        <item>Felin halları</item>
+        <item>Modal fellər</item>
+        <item>Şəxs Əvəzlikləri</item>
+        <item>Ön şəkilçiləri</item>
+        <item>Sadə cümlələr</item>
+        <item>Sual cümlələri</item>
+        <item>Əmr cümlələri</item>
+        <item>Keçmiş zaman</item>
+        <item>Gələcək zaman</item>
+    </string-array>
+</resources>

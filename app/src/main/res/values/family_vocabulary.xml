@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="family_german_array_nomen">
+
+        <item>die Mutter</item>
+        <item>der Vater</item>
+        <item>die Eltern</item>
+        <item>der Sohn</item>
+        <item>die Tochter</item>
+        <item>das Ehepaar</item>
+        <item>die Familie</item>
+        <item>der Stiefvater</item>
+        <item>die Stiefmutter</item>
+        <item>der Stiefsohn</item>
+        <item>die Stieftochter</item>
+        <item>die Großeltern</item>
+        <item>die Großmutter / Oma</item>
+        <item>der Großvater / Opa</item>
+        <item>der Neffe</item>
+        <item>der Schwiegersohn</item>
+        <item>die Schwiegertochter</item>
+        <item>der Schwager / die Schwägerin</item>
+        <item>der Mann</item>
+        <item>die Frau</item>
+        <item>der Junge</item>
+        <item>das Mädchen</item>
+    </string-array>
+
+    <string-array name="family_german_array_verben">
+        <item>mit jemandem heiraten</item>
+        <item>sich scheiden lassen (von jemandem)</item>
+        <item>jemanden adoptieren</item>
+        <item>ein Kind auf die Welt bringen</item>
+        <item>sich mit jemandem verloben</item>
+    </string-array>
+
+    <!-- AZERBAIJANISH -->
+
+    <string-array name="family_aze_array_nomen">
+        <item>Ana</item>
+        <item>Ata</item>
+        <item>Valideynler</item>
+        <item>Oğul</item>
+        <item>Qız</item>
+        <item>Evli cütlük</item>
+        <item>Ailə</item>
+        <item>Ögey ata</item>
+        <item>Ögey ana</item>
+        <item>Ögey oğul</item>
+        <item>Ögey qız</item>
+        <item>Nənə və baba</item>
+        <item>Nənə</item>
+        <item>baba</item>
+        <item>Qardaşoğlu</item>
+        <item>Kürəkən</item>
+        <item>Gəlin (valideynlər üçün)</item>
+        <item>Yeznə / Gəlin</item>
+        <item>kişi</item>
+        <item>qadın</item>
+        <item>oğlan</item>
+        <item>qız</item>
+    </string-array>
+
+</resources>

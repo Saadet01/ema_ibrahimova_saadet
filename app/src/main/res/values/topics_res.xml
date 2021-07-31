@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topics_array">
+        <item>Familie</item>
+        <item>Berufe</item>
+        <item>Gegenstände</item>
+        <item>Orte</item>
+        <item>Verkehrsmittel</item>
+        <!-- Hier Gefühle und Character hinzufügen, dazu passende Sticker in den Array -->
+        <item>Lebewesen</item>
+        <item>Möbel</item>
+        <item>Zeit</item>
+        <item>Obst</item>
+        <item>Gemüse</item>
+        <item>Natur</item>
+        <item>Kleidungen</item>
+        <item>Körper</item>
+        <item>Accessoires</item>
+        <item>Sport</item>
+        <item>Farben</item>
+    </string-array>
+</resources>

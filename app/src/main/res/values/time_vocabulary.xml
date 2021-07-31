@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_german_array_nomen">
+        <item>die Sekunde</item>
+        <item>die Minute</item>
+        <item>die Stunde</item>
+        <item>der Tag</item>
+        <item>die Woche</item>
+        <item>der Monat</item>
+        <item>das Jahr</item>
+        <item>heute</item>
+        <item>jetzt</item>
+        <item>bald</item>
+        <item>gleich</item>
+        <item>gestern</item>
+        <item>vorgestern</item>
+        <item>morgen</item>
+        <item>übermorgen</item>
+        <item>der Montag</item>
+        <item>der Dienstag</item>
+        <item>der Mittwoch</item>
+        <item>der Donnerstag</item>
+        <item>der Freitag</item>
+        <item>der Samstag</item>
+        <item>der Sonntag</item>
+        <item>der Januar</item>
+        <item>der Februar</item>
+        <item>der März</item>
+        <item>der April</item>
+        <item>der Mai</item>
+        <item>der Juni</item>
+        <item>der Juli</item>
+        <item>der August</item>
+        <item>der September</item>
+        <item>der Oktober</item>
+        <item>der November</item>
+        <item>der Dezember</item>
+    </string-array>
+    <string-array name="time_aze_array_nomen">
+        <item>Saniyə</item>
+        <item>Dəqiqə</item>
+        <item>Saat</item>
+        <item>Gün</item>
+        <item>Həftə</item>
+        <item>Ay</item>
+        <item>İl</item>
+        <item>Bu gün</item>
+        <item>İndi</item>
+        <item>Tezliklə</item>
+        <item>Birazdan</item>
+        <item>Dünən</item>
+        <item>Srağagün</item>
+        <item>Sabah/Səhər</item>
+        <item>Birigün</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level01_aze">
+        <item>Salam</item>
+        <item>Sabahın(ız) xeyir</item>
+        <item>Axşamın xeyir</item>
+        <item>Gecən xeyrə</item>
+        <item>Sağol</item>
+        <item>Təşəkkürlər</item>
+        <item>Bəli</item>
+        <item>Xeyir</item>
+        <item>Mənim adım "A"dır</item>
+        <item>Sənin adın nədir?</item>
+
+    </string-array>
+    <string-array name="level01_ger">
+        <item>Guten Tag / Hallo</item>
+        <item>Guten Morgen</item>
+        <item>Guten Abend</item>
+        <item>Gute Nacht</item>
+        <item>Auf Widersehen / Tschüss</item>
+        <item>Danke</item>
+        <item>Ja</item>
+        <item>Nein</item>
+        <item>Ich heiße A</item>
+        <item>Wie heißt du?</item>
+
+    </string-array>
+</resources>

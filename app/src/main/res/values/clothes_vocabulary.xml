@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clothes_german_array_nomen">
+        <item>die Hose</item>
+        <item>der Rock</item>
+        <item>das Hemd</item>
+        <item>der Anzug</item>
+        <item>die Schuhe</item>
+        <item>der Stiefel</item>
+        <item>der Oberteil</item>
+        <item>der Unterteil</item>
+        <item>das Unterhemd</item>
+        <item>die Unterhose</item>
+        <item>das Kleid</item>
+        <item>der Pullover</item>
+        <item>der Mantel</item>
+        <item>die Jacke</item>
+        <item>das T-Shirt</item>
+        <item>der Badeanzug / der Bikini</item>
+        <item>die Socken</item>
+        <item>die Strumpfhose</item>
+
+
+    </string-array>
+    <string-array name="clothes_aze_array_nomen">
+        <item>die Hose</item>
+        <item>Rock</item>
+        <item>Hemd</item>
+        <item>Anzug</item>
+        <item>Schuhe</item>
+        <item>Stiefel</item>
+        <item>Oberteil</item>
+        <item>Unterteil</item>
+        <item>Unterhemd</item>
+        <item>Unterhose</item>
+        <item>ddas Kleid</item>
+        <item>der Pullover</item>
+        <item>der Mantel</item>
+        <item>die Jacke</item>
+        <item>das T-Shirt</item>
+        <item>der Badeanzug / der Bikini</item>
+        <item>die Socken</item>
+        <item>die Strumpfhose</item>
+
+    </string-array>
+</resources>

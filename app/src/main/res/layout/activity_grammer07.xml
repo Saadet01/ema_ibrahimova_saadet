@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Grammar04Activity"
+    android:background="@color/grammar_background_color">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginStart="@dimen/grammer_layout_margin"
+        android:layout_marginEnd="@dimen/grammer_layout_margin">
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/rule_grammer07_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Şəxs əvəzlikləri"
+            android:layout_marginBottom="50dp"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@color/grammar_titelbackground_color"
+            android:textColor="@color/grammar_text_color"/>
+        <TextView
+            android:id="@+id/rule_grammer07_introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule_grammer07_pronouncases_introduction"
+            android:textStyle="italic"
+            android:background="@color/white"
+            android:layout_marginBottom="30dp"/>
+
+        <ImageView
+            android:id="@+id/rule_grammer07_pronouncases"
+            android:layout_width="match_parent"
+            android:layout_height="228dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/personalpronouncases"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white"
+            android:layout_marginTop="30dp">
+            <TextView
+
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Misallar:\n"/>
+            <TextView
+                android:id="@+id/rule_grammer07_examplepersonalpronoun01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/rule_grammer07_examplepersonalpronoun02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/rule_grammer07_examplepersonalpronoun03"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/startbackground"
+            app:itemIconSize="30dp"
+            app:itemIconTint="@color/white"
+            app:itemTextColor="@color/white"
+            app:labelVisibilityMode="selected"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:menu="@menu/menu" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

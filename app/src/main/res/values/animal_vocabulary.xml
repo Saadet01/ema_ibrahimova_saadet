@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_german_array_nomen">
+        <item>der Hund</item>
+        <item>die Katze</item>
+        <item>das Pferd</item>
+        <item>das Kaninchen</item>
+        <item>das Zebra</item>
+        <item>der Elefant</item>
+        <item>das Eichhörnchen</item>
+        <item>der Affe</item>
+        <item>der Löwe</item>
+        <item>die Giraffe</item>
+        <item>der Bär</item>
+        <item>der Vogel</item>
+        <item>das Insekt</item>
+        <item>die Ameise</item>
+        <item>der Fuchs</item>
+        <item>der Frosch</item>
+        <item>die Ente</item>
+        <item>der Schwan</item>
+        <item>das Schwein</item>
+        <item>die Kuh</item>
+        <item>das Schaf</item>
+        <item>das Lamm</item>
+        <item>der Welpe</item>
+        <item>das Huhn</item>
+        <item>der Hahn</item>
+        <item>die Eule</item>
+        <item>Fliege</item>
+        <item>der Schmetterling</item>
+        <item>das Reh</item>
+        <item>die Maus</item>
+    </string-array>
+    <string-array name="animal_aze_array_nomen">
+        <item>der Hund</item>
+        <item>die Katze</item>
+        <item>das Pferd</item>
+        <item>das Kaninchen</item>
+        <item>Zebra</item>
+        <item>Elefand</item>
+        <item>Eichhörnchen</item>
+        <item>Affe</item>
+        <item>Löwe</item>
+        <item>Giraffe</item>
+        <item>Bär</item>
+        <item>Vogel</item>
+        <item>Insekt</item>
+        <item>Ameise</item>
+        <item>Fuchs</item>
+        <item>Frosch</item>
+        <item>Ente</item>
+        <item>der Schwan</item>
+        <item>Schwein</item>
+        <item>Kuh</item>
+        <item>Scharf</item>
+        <item>Lamm</item>
+        <item>Welpe</item>
+        <item>Huhn</item>
+        <item>Hahn</item>
+        <item>Eule</item>
+        <item>Fliege</item>
+        <item>Schmetterling</item>
+        <item>Reh</item>
+        <item>siçan</item>
+    </string-array>
+</resources>

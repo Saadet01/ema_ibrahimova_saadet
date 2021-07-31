@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="60dp"
+        android:id="@+id/level_viewpager"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:background="@color/startbackground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/level_textview_aze"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="Aze"
+                android:gravity="center"
+                android:textColor="@color/startbackgroundtext"/>
+            <ImageView
+                android:id="@+id/soundLevel"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/sound_level02"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:id="@+id/level_textview_german"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:gravity="center"
+                android:text="Ger"
+                android:textColor="@color/startbackgroundtext"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/questionButton"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_margin="40dp"
+        android:clickable="true"
+        android:src="@drawable/light_bulbquestion" />
+
+
+
+</LinearLayout>

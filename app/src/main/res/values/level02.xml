@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level02_aze">
+        <item>mən</item>
+
+        <item>ev</item>
+        <item>bacı</item>
+        <item>getmək</item>
+        <item>mən bacım ilə evə gedirəm</item>
+        <item>ata</item>
+        <item>və</item>
+        <item>qardaş</item>
+        <item>sahib olmaq</item>
+        <item>O atanin 4 qardaşı var</item>
+
+    </string-array>
+    <string-array name="level02_ger">
+        <item>ich</item>
+        <item>das Haus</item>
+        <item>die Schwester</item>
+        <item>gehen</item>
+        <item>Ich gehe mit meiner Schwester nach Hause</item>
+        <item>der Vater</item>
+        <item>und</item>
+        <item>der Bruder</item>
+        <item>haben</item>
+        <item>Der Vater hat 2 Schwester und 3 Brüder</item>
+    </string-array>
+
+</resources>

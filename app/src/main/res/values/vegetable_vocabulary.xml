@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vegetable_german_array_nomen">
+        <item>das Gemüse</item>
+        <item>die Tomate</item>
+        <item>die Gurke</item>
+        <item>die Kartoffel</item>
+        <item>die Zwiebel</item>
+        <item>der Lauch</item>
+        <item>die Aubergine</item>
+        <item>die Paprika</item>
+        <item>der Knoblauch</item>
+        <item>die Bohnen</item>
+        <item>der Kohl</item>
+        <item>die Karotte</item>
+        <item>das Radieschen</item>
+        <item>die Pilz</item>
+        <item>der Mais</item>
+        <item>die Peperoni</item>
+    </string-array>
+    <string-array name="vegetable_aze_array_nomen">
+        <item>Tərəvəz</item>
+        <item>Pomidor</item>
+        <item>Xiyar</item>
+        <item>Kartof</item>
+        <item>Baş soğan</item>
+        <item>Göy soğan</item>
+        <item>Badımcan</item>
+        <item>Bibər</item>
+        <item>Sarımsaq</item>
+        <item>Lobya</item>
+        <item>Kələm</item>
+        <item>Kök</item>
+        <item>Turp</item>
+        <item>Göbələk</item>
+        <item>Qarğıdalı</item>
+        <item>Acı bibər</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="furniture_german_array_nomen">
+        <item>der Tisch</item>
+        <item>der Stuhl</item>
+        <item>die Couch</item>
+        <item>der Sessel</item>
+        <item>das Bett</item>
+        <item>der Schrank</item>
+        <item>der Kleiderschrank</item>
+        <item>der Spiegel</item>
+        <item>der Fernseher</item>
+        <item>die Kommode</item>
+        <item>die Uhr</item>
+        <item>der Teppisch</item>
+        <item>der Backofen</item>
+        <item>der Herd</item>
+        <item>das Waschbecken</item>
+        <item>der Kühlschrank</item>
+        <item>die Spülmaschine</item>
+        <item>die Waschmaschine</item>
+        <item>die Mikrowelle</item>
+        <item>Leuchter</item>
+
+    </string-array>
+    <string-array name="furniture_aze_array_nomen">
+        <item>Stol</item>
+        <item>Stul</item>
+        <item>Divan</item>
+        <item>Kreslo</item>
+        <item>Çarpayı</item>
+        <item>Skaf</item>
+        <item>Paltar skafı</item>
+        <item>Güzgü</item>
+        <item>Televizor</item>
+        <item>Kamod</item>
+        <item>Saat</item>
+        <item>Xalça</item>
+        <item>Soba</item>
+        <item>Pilitə</item>
+        <item>Moyka</item>
+        <item>Soyuducu</item>
+        <item>Qabyuyan maşın</item>
+        <item>Paltaryuyan maşın</item>
+        <item>mikrodalğalı soba</item>
+        <item>çilçıraq</item>
+    </string-array>
+</resources>

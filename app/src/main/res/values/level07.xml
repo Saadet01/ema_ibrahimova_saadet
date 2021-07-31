@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level07_aze">
+        <item>Müəllim</item>
+        <item>sənə</item>
+        <item>qələm</item>
+        <item>vermək</item>
+        <item>Müəllim sənə dünən qələm verdi.</item>
+        <item>sabah</item>
+        <item>divar</item>
+        <item>rəsm</item>
+        <item>asmaq</item>
+        <item>Xahiş edirem sabah divardan şəkli as!</item>
+    </string-array>
+    <string-array name="level07_ger">
+        <item>der Lehrer</item>
+        <item>dir</item>
+        <item>der Bleistift</item>
+        <item>geben</item>
+        <item>Der Lehrer hat dir gestern ein Bleistift gegeben.</item>
+        <item>morgen</item>
+        <item>die Wand</item>
+        <item>das Bild</item>
+        <item>hängen</item>
+        <item>Bitte häng das Bild morgen an die Wand!</item>
+    </string-array>
+</resources>

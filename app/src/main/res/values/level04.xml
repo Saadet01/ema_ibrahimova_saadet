@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level04_aze">
+        <item>Stol</item>
+        <item>Kitab</item>
+        <item>uzanmaq</item>
+        <item>Stolun üzerinde 3 Kitab var.</item>
+        <item>onun (qadın)</item>
+        <item>nənə</item>
+        <item>Almanca</item>
+        <item>danismaq</item>
+        <item>bacarmaq</item>
+        <item>Onun nənəsi almanca danısmaqı bacarır.</item>
+
+    </string-array>
+    <string-array name="level04_ger">
+        <item>der Tisch</item>
+        <item>das Buch</item>
+        <item>liegen</item>
+        <item>Auf dem Tisch liegen 3 Bücher.</item>
+        <item>ihr(e/er)</item>
+        <item>die Großmutter / Oma</item>
+        <item>Deutsch</item>
+        <item>sprechen</item>
+        <item>können</item>
+        <item>Ihre Großmutter kann auf Deutsch sprechen.</item>
+    </string-array>
+
+</resources>

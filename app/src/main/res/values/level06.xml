@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level06_aze">
+        <item>it</item>
+        <item>pişik</item>
+        <item>yataq</item>
+        <item>oynamaq</item>
+        <item>İt yataqın altinda pişik ilə oynayir.</item>
+        <item>hansı</item>
+        <item>meyvə</item>
+        <item>en cox</item>
+        <item>xoşlamaq</item>
+        <item>Hansı meyvəni en cox xoşlayırsan?</item>
+    </string-array>
+    <string-array name="level06_ger">
+        <item>der Hund</item>
+        <item>die Katze</item>
+        <item>das Bett</item>
+        <item>spielen</item>
+        <item>Der Hund spielt mit der Katze unter dem Bett.</item>
+        <item>welche(r)</item>
+        <item>das Obst</item>
+        <item>am Meisten</item>
+        <item>mögen</item>
+        <item>Welches Obst magst du am Meisten?</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sport_german_array_nomen">
+        <item>der Fußball</item>
+        <item>der Basketball</item>
+        <item>der Volleyball</item>
+        <item>das Tischtennis</item>
+        <item>das Schwimmen</item>
+        <item>das Fitnesstudio</item>
+    </string-array>
+    <string-array name="sport_aze_array_nomen">
+        <item>Futbol</item>
+        <item>Basketboll</item>
+        <item>Voleybol</item>
+        <item>Stolüstü tennis</item>
+        <item>Üzgüçülük</item>
+        <item>İdman zalı</item>
+    </string-array>
+</resources>

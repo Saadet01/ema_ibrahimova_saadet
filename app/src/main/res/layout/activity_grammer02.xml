@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Grammar02Activity"
+    android:background="@color/grammar_background_color">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/grammer_layout_margin"
+        android:layout_marginEnd="@dimen/grammer_layout_margin"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+        <TextView
+            android:id="@+id/rule_grammer02_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ədədlər"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="20dp"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/grammar_text_color"
+            android:background="@color/grammar_titelbackground_color"/>
+        <TextView
+            android:id="@+id/rule_grammer02_introduction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rule_grammer02_alpabet_introduction"
+            android:textStyle="italic"
+            android:background="@color/white"
+            android:textColor="@color/grammar_text_color"/>
+
+        <ImageView
+            android:id="@+id/rule_grammer02_numbers"
+            android:layout_width="match_parent"
+            android:layout_height="214dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/grammer_numbers" />
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:id="@+id/rule_grammer02_number_sound"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/grammer_sound_image_size"
+            android:src="@drawable/sound_green02"
+            android:background="@color/white"/>
+        <TextView
+            android:id="@+id/rule_grammer02_examplenumbers"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:textColor="@color/grammar_text_color"
+            android:text="Misal:\n35=fünfunddreißig\n47=siebenundvierzig\n398=dreihundertachtundneunzig
+        \n1000=tausend \n9059=neuentausendneunundfünfzig"/>
+    </LinearLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu"
+        android:background="@color/startbackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:labelVisibilityMode="selected"
+        app:itemIconSize="30dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

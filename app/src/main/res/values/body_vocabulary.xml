@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="body_german_array_nomen">
+        <item>der Kopf</item>
+        <item>das Ohr</item>
+        <item>die Nase</item>
+        <item>der Mund</item>
+        <item>das Auge</item>
+        <item>die Augenbraue</item>
+        <item>die Wimpern</item>
+        <item>der Arm</item>
+        <item>das Bein</item>
+        <item>der Oberkörper</item>
+        <item>das Gesicht</item>
+        <item>die Lippe</item>
+        <item>das Kinn</item>
+        <item>die Wange</item>
+        <item>der Zahn</item>
+        <item>der Finger</item>
+        <item>der Zeh</item>
+        <item>der Hals</item>
+        <item>die Brust</item>
+        <item>der Nagel</item>
+        <item>der Bauch</item>
+        <item>der Rücken</item>
+        <item>die Taile</item>
+        <item>das Knie</item>
+        <item>der Fuß</item>
+        <item>die Schulter</item>
+        <item>die Stirn</item>
+        <item>das Haar</item>
+        <item>die Zunge</item>
+
+</string-array>
+    <string-array name="body_aze_array_nomen">
+        <item>der Kopf</item>
+        <item>Ohr</item>
+        <item>Nase</item>
+        <item>Mund</item>
+        <item>Auge</item>
+        <item>Augenbraue</item>
+        <item>kiprik</item>
+        <item>Arm</item>
+        <item>Bein</item>
+        <item>Oberkörper</item>
+        <item>das Gesicht</item>
+        <item>Lippe</item>
+        <item>Kinn</item>
+        <item>Wangen</item>
+        <item>Zahn</item>
+        <item>Finger</item>
+        <item>Zeh</item>
+        <item>Hals</item>
+        <item>Brust</item>
+        <item>Nagel</item>
+        <item>Bauch</item>
+        <item>Rücken</item>
+        <item>Taile</item>
+        <item>Knie</item>
+        <item>Fuß</item>
+        <item>Schulter</item>
+        <item>Stirn</item>
+        <item>Haare</item>
+        <item>Zunge</item>
+
+    </string-array>
+</resources>

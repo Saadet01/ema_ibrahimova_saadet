@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_german_array_nomen">
+        <item>das Heft</item>
+        <item>das Buch</item>
+        <item>der Kugelschreiber</item>
+        <item>der Bleistift</item>
+        <item>der Füller</item>
+        <item>der Radiergummi</item>
+        <item>das Mäppchen</item>
+        <item>das Handy/Smartphone</item>
+        <item>das Telefon</item>
+        <item>der Teller</item>
+        <item>die Tasse / Oma</item>
+        <item>die Gabel</item>
+        <item>das Messer</item>
+        <item>der Topf</item>
+        <item>die Pfanne</item>
+        <item>der Computer</item>
+        <item>das Spielzeug</item>
+        <item>der Eimer</item>
+        <item>die Flasche</item>
+        <item>der Schlüssel</item>
+        <item>die Zahnbürste</item>
+        <item>die Zahnpasta</item>
+        <item>der Aschenbecher</item>
+        <item>der Kopfhörer</item>
+        <item>der Mülleimer</item>
+        <item>der Toaster</item>
+        <item>die Teekanne</item>
+        <item>die Kaffeemaschine</item>
+        <item>die Tüte</item>
+        <item>das Handtuch</item>
+        <item>der Koffer</item>
+        <item>der Kamm</item>
+        <item>die Bürste</item>
+        <item>das Geschenk</item>
+
+
+
+    </string-array>
+    <string-array name="item_aze_array_nomen">
+        <item>das Heft</item>
+        <item>das Buch</item>
+        <item>der Kugelschreiber</item>
+        <item>der Bleistift</item>
+        <item>der Füller</item>
+        <item>Radiergummi</item>
+        <item>Mäppchen</item>
+        <item>das Handy/Smartphone</item>
+        <item>das Telefon</item>
+        <item>der Teller</item>
+        <item>die Tasse / Oma</item>
+        <item>die Gabel</item>
+        <item>das Messer</item>
+        <item>der Topf</item>
+        <item>Bürste</item>
+        <item>Kamm</item>
+        <item>komputer</item>
+        <item>oyuncaq</item>
+        <item>Eimer</item>
+        <item>die Flasche</item>
+        <item>Schlüssel</item>
+        <item>Zahnbürste</item>
+        <item>Zahnpasta</item>
+        <item>Aschenbecher??</item>
+        <item>Kopfhörer</item>
+        <item>Mülleimer</item>
+        <item>Toaster</item>
+        <item>Teekanne</item>
+        <item>Kaffeemaschine</item>
+        <item>Tüte</item>
+        <item>Handtuch</item>
+        <item>Koffer</item>
+        <item>Geschenk</item>
+
+
+    </string-array>
+
+
+
+</resources>

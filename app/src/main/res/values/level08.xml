@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level08_aze">
+        <item>neçə</item>
+        <item>şalvar</item>
+        <item>qara</item>
+        <item>sahib olmaq</item>
+        <item>Neçə dənə qara şalvarın var?</item>
+        <item>Ana</item>
+        <item>sənət</item>
+        <item>refiqə</item>
+        <item>olmaq / dır dir sekilçisi</item>
+        <item>Rəfiqəvin anasının sənəti nədir?</item>
+    </string-array>
+    <string-array name="level08_ger">
+        <item>wie viel(e)</item>
+        <item>die Hose</item>
+        <item>schwarz</item>
+        <item>haben </item>
+        <item>Wie  viele schwarze Hosen hast du?</item>
+        <item>die Mutter</item>
+        <item>der Beruf</item>
+        <item>die Freundin</item>
+        <item>sein</item>
+        <item>Was ist die Mutter von deiner Freundin vom Beruf?</item>
+    </string-array>
+
+
+
+</resources>

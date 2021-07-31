@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level03_aze">
+        <item>mənim</item>
+        <item>oğul</item>
+        <item>xəstəxana</item>
+        <item>islemek</item>
+        <item>mənim oğlum xəstəxanada işləyir.</item>
+        <item>polis</item>
+        <item>maşın</item>
+        <item>təmiz</item>
+        <item>olmaq/dır və dir səkilçisi</item>
+        <item>Polisin maşını temizdir.</item>
+
+    </string-array>
+    <string-array name="level03_ger">
+        <item>mein</item>
+        <item>der Sohn</item>
+        <item>das Krankenhaus</item>
+        <item>arbeiten</item>
+        <item>mein Sohn arbeitet in einem Krankenhaus.</item>
+        <item>der Polizist</item>
+        <item>das Auto</item>
+        <item>sauber</item>
+        <item>sein / ist</item>
+        <item>Das Auto des Polizisten ist sauber</item>
+    </string-array>
+
+</resources>

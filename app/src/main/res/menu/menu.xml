@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_vocabulary"
+        android:icon="@drawable/ic_vocabulary"
+        android:title="Sözlər"/>
+    <item
+        android:id="@+id/ic_grammar"
+        android:icon="@drawable/ic_grammar"
+        android:title="Qramatika"/>
+    <item
+        android:id="@+id/ic_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Start Səhifə"/>
+    <item
+        android:id="@+id/ic_sentences"
+        android:icon="@drawable/ic_sentences"
+        android:title="Cümlələr"/>
+    <item
+        android:id="@+id/ic_training"
+        android:icon="@drawable/ic_training"
+        android:title="Məşq"/>
+</menu>

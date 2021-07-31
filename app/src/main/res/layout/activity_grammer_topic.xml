@@ -1,0 +1,57 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VocabularyTopicActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/titel_grammer"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/startbackground"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/overview_grammar"/>
+        <TextView
+            android:id="@+id/topic_grammer"
+            android:layout_width="250dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif"
+            android:text="Gramatika"
+            android:textAlignment="center"
+            android:textColor="@color/startbackgroundtext"
+            android:textSize="45sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list_grammer"
+        android:layout_width="wrap_content"
+        android:layout_height="450dp"
+        android:clickable="false"
+        android:fastScrollEnabled="true"
+        app:layout_constraintTop_toBottomOf="@id/titel_grammer"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu"
+        android:background="@color/startbackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:itemIconTint="@color/white"
+        app:itemTextColor="@color/white"
+        app:labelVisibilityMode="selected"
+        app:itemIconSize="30dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

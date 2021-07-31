@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="natur_german_array_nomen">
+        <item>der Fluss</item>
+        <item>Berg</item>
+        <item>die Pflanze</item>
+        <item>der Baum</item>
+        <item>der Ozean</item>
+        <item>der Wald</item>
+        <item>das Wetter</item>
+        <item>das Wasser</item>
+        <item>die Sonne</item>
+        <item>der Regen</item>
+        <item>der Schnee</item>
+        <item>das Erdbeben</item>
+        <item>der Hagel</item>
+        <item>die Blume</item>
+    </string-array>
+    <string-array name="natur_aze_array_nomen">
+        <item>Çay</item>
+        <item>Dağ</item>
+        <item>Bitgi</item>
+        <item>Ağac</item>
+        <item>Okean</item>
+        <item>Meşə</item>
+        <item>Hava</item>
+        <item>Su</item>
+        <item>Günəş</item>
+        <item>Yağış</item>
+        <item>Qar</item>
+        <item>Zəlzələ</item>
+        <item>Dolu</item>
+    </string-array>
+</resources>

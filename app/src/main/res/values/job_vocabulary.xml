@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="job_german_array_nomen">
+        <item>der Arzt/die Ärztin</item>
+        <item>der Krankenpfleger/die Krankenschwester</item>
+        <item>der Lehrer/die Lehrerin</item>
+        <item>der Ingenieur/die Ingenieurin</item>
+        <item>der Polizist/die Polizistin</item>
+        <item>der Fahrer/die Fahrerin</item>
+        <item>der Bäcker/die Bäckerin</item>
+        <item>der Pilot/die Pilotin</item>
+        <item>der Handwerker/die Handwerkerin</item>
+        <item>der Kassierer/die Kassiererin</item>
+        <item>der Maler/die Malerin</item>
+        <item>der Musiker/die Musikerin</item>
+        <item>der Künstler/die Künstlerin</item>
+        <item>der Kellner/die Kellnerin</item>
+        <item>der Koch/die Köchin</item>
+        <item>der Berater/die Beraterin</item>
+        <item>der Schauspieler/die Schauspielerin</item>
+        <item>der Sänger/die Sängerin</item>
+        <item>der Verkäufer/die Verkäuferin</item>
+        <item>der Sekretär/die Sekretärin</item>
+        <item>der Architekt/die Architektin</item>
+    </string-array>
+
+    <string-array name="job_german_array_verben">
+        <item>sich bewerben</item>
+        <item>jemanden einstellen</item>
+        <item>(jemanden/etwas) kündigen</item>
+        <item>die Stelle / den Job annehmen</item>
+        <item>arbeiten</item>
+        <item>Feierabend machen</item>
+        <item>Pause machen</item>
+    </string-array>
+
+    <string-array name="job_array_adjektive">
+        <item>fleißig</item>
+        <item>ehrlich</item>
+    </string-array>
+
+    <!-- AZERBAIJANISH -->
+
+    <string-array name="job_aze_array_nomen">
+        <item>Həkim</item>
+        <item>Tibb bacısı</item>
+        <item>Müəllim</item>
+        <item>Mühəndis</item>
+        <item>Polis zabiti</item>
+        <item>Sürücü</item>
+        <item>çörəkçi/Konditer</item>
+        <item>Pilot</item>
+        <item>Usta</item>
+        <item>Kassir</item>
+        <item>Rəngsaz</item>
+        <item>Musiqiçi</item>
+        <item>Sənətkar/</item>
+        <item>Ofisiant</item>
+        <item>Aşbaz</item>
+        <item>Məsləhətçi</item>
+        <item>Aktyor</item>
+        <item>Müğənni</item>
+        <item>Satıcı</item>
+        <item>Katib</item>
+        <item>Memar</item>
+    </string-array>
+</resources>

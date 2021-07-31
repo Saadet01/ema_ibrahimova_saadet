@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accessoire_german_array_nomen">
+        <item>die Brille</item>
+        <item>die Halskette</item>
+        <item>der Ohrring</item>
+        <item>das Armband</item>
+        <item>die Armbanduhr</item>
+        <item>der Ring</item>
+        <item> Piercing</item>
+        <item>der Gürtel</item>
+        <item>die Handtasche</item>
+        <item> Geldbeutel</item>
+        <item>der Schal</item>
+        <item>die Haarspange</item>
+        <item>die Kappe</item>
+        <item>die Mütze</item>
+        <item>die Krawatte</item>
+    </string-array>
+    <string-array name="accessoire_aze_array_nomen">
+        <item>Eynək</item>
+        <item>Boyunbağı</item>
+        <item>Sırğa</item>
+        <item>Qolbaq</item>
+        <item>Qol saatı</item>
+        <item>Üzük</item>
+        <item>Pirsinq</item>
+        <item>Kəmər</item>
+        <item>əl çantası</item>
+        <item>pul kisəsi</item>
+        <item>Şərf</item>
+        <item>Saç sancağı / Zakolka</item>
+        <item>Şapqa</item>
+        <item>Qıs papaqı</item>
+        <item>Qalustuk</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name" >AZE-DE</string>
+    <string name="level" >level</string>
+    <string name="username" >Vorname Nachname</string>
+    <string name="gelernteVokabeln" >Anzahl-Vokabeln</string>
+    <string name="welchesLevel" >Level</string>
+    <string name="vokabelÜbrig">Anzahl-Übrige-Vokabeln</string>
+    <string name="title_activity_level">LevelActivity</string>
+    <string name="level_01_button_title">Level 01</string>
+    <string name="level_02_button_title">Level 02</string>
+    <string name="level_03_button_title">Level 03</string>
+    <string name="level_04_button_title">Level 04</string>
+    <string name="level_05_button_title">Level 05</string>
+    <string name="level_06_button_title">Level 06</string>
+    <string name="level_07_button_title">Level 07</string>
+    <string name="level_08_button_title">Level 08</string>
+    <string name="level_09_button_title">Level 09</string>
+    <string name="level_10_button_title">Level 10</string>
+    <string name="title_activity_start">@string/app_name</string>
+
+    <string name="grammer_example">Misallar:</string>
+
+    <!--Einführungs-/Erklärtexte für den Grammatik-Bereich-->
+    <string name="rule_grammer_alpabet_introduction">Almancada latın əlifbasına oxşar hərflere malikdir.
+        Aşagıda alman əlisfbasinin hərfleri oxunuşu ile birge yerləşdirilib. Bəzi hərif birləşmələri isə
+        möxtəlif oxunur: ei/ai=[ay], eu/äu=[oy], st=[şt], sp=[şp], sch=[ş], dt=[t], dsch=[c], tsch=[ç] ch=[ş],
+        chs=[ks]
+    </string>
+    <string name="rule_grammer02_alpabet_introduction">
+        Almancada azerbaycandan ferqli olaraq iki reqemli ededlerde teklik ilk onluq ise
+        2ci yerde seslendirilir.
+    </string>
+    <string name="rule_grammer03_article_introduction">
+        Almancada isimler artikillarla birge isledilir. 3 cür artikil növleri var. "der/ein", "die/eine", "das/ein".
+        Bu artikillarin sayesinde isimler hallandirilir. "Die" qadin cinsi, "Der" kisi cinsi, "das" orta cinsi bildirir.
+        Der/die/das müäyyen, ein/eine qeyri müeyyen artikillardir. Esasen isimi öyrenerken artikillar ile brge öyrenmek lazimdir,
+        cünkü cox qanuna uyqun olmayan artikil ve isim cütlükleri var. \nAsagidaki isim sonluqlarina göre artikillari düzgün
+        tapmaq mümkündür. Cemin artikili "Die"dir.
+    </string>
+    <string name="rule_grammer04_nouncases_introduction">
+        Alman dilinde ismin 4 hali var. Adliq(Nominativ),Yiyelik(Genetiv), Yönlük(Dativ) ve Tesislik(Akkusativ). Yerlik ve Cixisliq ise ön sekilcilerle yaradilir.
+        2ci halda das ve der artikillarina sahib olan isimlerin sonuna "s" veya "es" elave edilir.\nS ve Z ile biten isimler
+        Yiyelik halinda "ES",
+    </string>
+    <string name="rule_grammer05_verbcases_introduction">
+        Alman dilinde feller məsdər formasinda normalda "en" ile bitir. "n" ile bitten fellerde var. Feli hallandirmaq ücün sonda olan "en" yerine e/(e)st/(e)t/en yazilir.
+
+    </string>
+    <string name="rule_grammer06_modalverbs_introduction">
+        Cümlede modal feller istifade edilende 2ci fel cümlenin sonuna kecir. dürfen=icazəye sahib olmaq, können=bacarmaq,
+        mögen=xoşlamaq, müssen=məcburiyyətində olmaq, sollen=məcbur edilmək, wollen=istəmək
+    </string>
+    <string name="rule_grammer07_pronouncases_introduction">
+        Men, menim, sene, onu, bizi kimi sözler asagida görsedilen kimi hallanir.
+    </string>
+    <string name="rule_grammer08_preposition_introduction">
+        Alman dilinde ön sekilciler (=Präpositionen) isimlerin önünde muxtelif hallarda sitifade edilir.
+    </string>
+    <string name="rule_grammer09_sentences_introduction">
+        Alman dilinde indiki zamanda sade cümlelerde mübtada ilk yerde, ikinci yerde ise mütleq fe´l gelmelidir.
+    </string>
+    <string name="rule_grammer10_question_introduction">
+        Alman dilinde indiki zamanda suallar fe´l ile baslamalidir. Ikinci yerde ise mübtada olmalidir.
+    </string>
+    <string name="rule_grammer11_imperativ_introduction">
+        Alman dilinde tek nefere emr edende mübatada cümlede istifade edilmir. Lakin 2 veya artiq nefere emr vererken ise
+        ikinci yerde istifade edilir. Her iki halda ilk Fe´l gelir.
+    </string>
+    <string name="rule_grammer12_past_introduction">
+        Alman dilinde kecmis zamanin fe´li iki hisseden ibaretdir. Ilk hisse "haben" veya "sein" fe´linin mübtedaya göre hallanmis halidir.
+        Ikinci hisse ise fe´lin özünün hallanmis formasidir. Fe´l özü fe´lin mesder formasinin önüne "ge" artirilmasi ile düzelir  ve
+        her zaman cümlenin sonunda islenir.
+    </string>
+    <string name="rule_grammer13_future_introduction">
+        Alman dilinde gelecek zaman "werden" fe´linin hallanmasi ile düzelir. Sade cümlelerde ikinci yerde "werden"in hallanmis
+        formasi ve esas fe´l ise cümlenin sonunda istifade edilir.
+    </string>
+
+
+    <!--Sätze auf Deutsch für den Grammatikbereich-->
+    <string name="satzGrammer06_01_ger">Ich muss ins Büro gehen.</string>
+    <string name="satzGrammer06_02_ger">Du darfst es essen.</string>
+    <string name="satzGrammer06_03_ger">Wir wollen kochen.</string>
+    <string name="satzGrammer07_01_ger">Meine Schuhe sind sauber.</string>
+    <string name="satzGrammer07_02_ger">Ich werde es dir morgen geben.</string>
+    <string name="satzGrammer07_03_ger">Ich lade euch zum Essen ein.</string>
+    <string name="satzGrammer09_01_ger">Die Mutter putzt die Wohnung immer mit Essig.</string>
+    <string name="satzGrammer09_02_ger">Sarah isst seit einem Jahr kein Fleisch.</string>
+    <string name="satzGrammer09_03_ger">Das Team spielt heute nicht.</string>
+    <string name="satzGrammer09_04_ger">Ich gehe nicht diese Woche zur Schule.</string>
+    <string name="satzGrammer10_01_ger">Wohin fliegst du nächstes Jahr?.</string>
+    <string name="satzGrammer10_02_ger">Welche Tasche möchtest du kaufen?</string>
+    <string name="satzGrammer10_03_ger">Magst du rote Äpfel?</string>
+    <string name="satzGrammer11_01_ger">Gib mir das sofort (bitte)!</string>
+    <string name="satzGrammer11_02_ger">Gehen Sie raus (bitte)!</string>
+    <string name="satzGrammer12_01_ger">Meine Schwester ist gestern geflogen.</string>
+    <string name="satzGrammer12_02_ger">Sie hat letzte Woche ihr Bein gebrochen.</string>
+    <string name="satzGrammer12_03_ger">Hast du die Hose letztes Jahr gekauft?</string>
+    <string name="satzGrammer12_04_ger">Bist du letzte Woche zur Schule gegangen?.</string>
+    <string name="satzGrammer13_01_ger">Ich werde morgen da sein.</string>
+    <string name="satzGrammer13_02_ger">Er wird nächsten Mittwoch seine Prüfung schreiben.</string>
+    <string name="satzGrammer13_03_ger">Wirst du heute abend mich besuchen?.</string>
+    <string name="satzGrammer13_04_ger">Werden wir um 17 Uhr da sein?.</string>
+
+    <!--Sätze auf Deutsch für nur den Sätzebereich-->
+    <string name="satz01_ger">Hallo. / Guten Tag.</string>
+    <string name="satz02_ger">Guten Morgen.</string>
+    <string name="satz03_ger">Guten Abend.</string>
+    <string name="satz04_ger">Gute Nacht.</string>
+    <string name="satz05_ger">Danke.</string>
+    <string name="satz06_ger">Ja.</string>
+    <string name="satz07_ger">Nein.</string>
+    <string name="satz08_ger">Auf Wiedersehen / Tschüss </string>
+    <string name="satz09_ger">Wie heißt du?.</string>
+    <string name="satz10_ger">Wo wohnst du?.</string>
+    <string name="satz11_ger">Wie alt bist du?.</string>
+    <string name="satz12_ger">Was bist du vom Beruf?</string>
+    <string name="satz13_ger">Seit wann lernst du Deutsch?</string>
+    <string name="satz14_ger">Meine Freundin hat zwei Geschwister.</string>
+    <string name="satz15_ger">Mein Sohn arbeitet in einem Krankenhaus.</string>
+    <string name="satz16_ger">Das Auto des Lehrers ist sauber.</string>
+    <string name="satz17_ger">İch bin krank.</string>
+    <string name="satz18_ger">İch bin verheiratet.</string>
+    <string name="satz19_ger">Die Krankenschwester fährt mit dem Bus zur Arbeit.</string>
+    <string name="satz20_ger">Der Hund spielt mit der Katze unter dem Bett.</string>
+    <string name="satz21_ger">Die Uhr hängt an der Wand.</string>
+    <string name="satz22_ger">Wieviele rote Oberteile hast du?</string>
+    <string name="satz23_ger">Was ist die Mutter von deiner Freudin vom Beruf?</string>
+    <string name="satz24_ger">Um wieviel Uhr hast du heute angerufen?.</string>
+    <string name="satz25_ger">Wann bist du heute gefahren?.</string>
+    <string name="satz26_ger">Ich werde halb 3 ankommen.</string>
+    <string name="satz27_ger">Wir werden nächstes Jahr nach England fliegen.</string>
+
+
+    <!--Die Übersetzungen von den Sätzen für den Grammatikbereich -->
+    <string name="satzGrammer06_01_az">Mən iş yerimə getməliyəm.</string>
+    <string name="satzGrammer06_02_az">Sənin bunu yeməyə icazən var.</string>
+    <string name="satzGrammer06_03_az">Biz yemək bişirmək istəyirik.</string>
+    <string name="satzGrammer07_01_az">Mənim ayaqqabılarım təmizdir.</string>
+    <string name="satzGrammer07_02_az">Mən onu sənə sabah verəcəm.</string>
+    <string name="satzGrammer07_03_az">Mən sizi yeməyə dəvət edirəm.</string>
+    <string name="satzGrammer09_01_az">Ana evi hemise sirkə ilə təmizləyir.</string>
+    <string name="satzGrammer09_02_az">Sarah bir ildir ət yemir.</string>
+    <string name="satzGrammer09_03_az">Kamanda bugün oynamir .</string>
+    <string name="satzGrammer09_04_az">Mein mektebe bu hefte getmirem.</string>
+    <string name="satzGrammer10_01_az">Gələn il hara uçacaqsan?</string>
+    <string name="satzGrammer10_02_az">Hansı çantanı almaq istəyirsən?</string>
+    <string name="satzGrammer10_03_az">Qırmızı alma sevirsən?</string>
+    <string name="satzGrammer11_01_az">Bunu indicə mənə ver (xahiş edirəm)!</string>
+    <string name="satzGrammer11_02_az">Çöle çixin (xahiş edirəm)!</string>
+    <string name="satzGrammer12_01_az">Mənim bacın dünən ucdu.</string>
+    <string name="satzGrammer12_02_az">O kecən həfte azaqını qırdı.</string>
+    <string name="satzGrammer12_03_az">Bu şalvarı keçən il almısan?</string>
+    <string name="satzGrammer12_04_az">Sən kecən hefte məktəbə getdin?.</string>
+    <string name="satzGrammer13_01_az">Mən sabah orda olacam.</string>
+    <string name="satzGrammer13_02_az">O gələn həftə imtahanını yazacaq.</string>
+    <string name="satzGrammer13_03_az">Bugön axşam məni görməyə gələcəksən?.</string>
+    <string name="satzGrammer13_04_az">Saat 5də orda olacayıq?.</string>
+
+    <!--Die Übersetzung von den Sätzen für den Sätzebereich-->
+    <string name="satz01_az">Salam.</string>
+    <string name="satz02_az">Sabahin xeyir.</string>
+    <string name="satz03_az">Axşamın xeyir.</string>
+    <string name="satz04_az">Gecən xeyrə.</string>
+    <string name="satz05_az">Təşəkkür.</string>
+    <string name="satz06_az">Bəli.</string>
+    <string name="satz07_az">Xeyir.</string>
+    <string name="satz08_az">Sağol. </string>
+    <string name="satz09_az">Adın nədir?.</string>
+    <string name="satz10_az">Harda yaşazırsan?.</string>
+    <string name="satz11_az">Neçə yaşın var?</string>
+    <string name="satz12_az">Sənətin nədir?</string>
+    <string name="satz13_az">Ne vaxtdan almanca öyrənirsən?</string>
+    <string name="satz14_az">Menin rəfiqəmin 2 bacısı var.</string>
+    <string name="satz15_az">Mənim oğlum xəstəxanada işləyir.</string>
+    <string name="satz16_az">Müəllimin maşını təmizdir.</string>
+    <string name="satz17_az">Mən xəstəyəm.</string>
+    <string name="satz18_az">Mən evliyəm.</string>
+    <string name="satz19_az">Tibb bacısı avtobusla işə gedir.</string>
+    <string name="satz20_az">İt yataqın altında pişiklə oynayır.</string>
+    <string name="satz21_az">Saat divarda asılıdır.</string>
+    <string name="satz22_az">Neçə qırmızı üst paltarın var?</string>
+    <string name="satz23_az">Rəfiqevin anasının sənəti nədir?</string>
+    <string name="satz24_az">Bugün saat neçədə zəng etdin?</string>
+    <string name="satz25_az">Bugün saat neçədə getdin(sürmekle)?.</string>
+    <string name="satz26_az">Mən 3 ün yarısı çatacam.</string>
+    <string name="satz27_az">Bir gələn il İngiltərəyə gedəcəyik(ucaraq).</string>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level09_aze">
+        <item>bizim</item>
+        <item>gəlin</item>
+        <item>gitar</item>
+        <item>instrument çalmaq / oyun oynamaq</item>
+        <item>Bizim gəlin gitar çalmaği cox yaxşı bacarır. </item>
+        <item>onlar</item>
+        <item>ağ</item>
+        <item>ayaqqabı</item>
+        <item>almaq</item>
+        <item>Onlar 1 cüt ayaqqabı aldılar. </item>
+    </string-array>
+    <string-array name="level09_ger">
+        <item>unser/unsere</item>
+        <item>Schwiegertochter</item>
+        <item>die Gitarre</item>
+        <item>spielen</item>
+        <item>Unsere Schwiegertochter kann sehr gut Gitarre spielen. </item>
+        <item>sie</item>
+        <item>weiß</item>
+        <item>die Schuhe</item>
+        <item>kaufen</item>
+        <item>Sie haben ein Paar Schuhe gekauft. </item>
+    </string-array>
+
+</resources>
